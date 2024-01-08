@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3278.2305mm"
+   height="396.82666mm"
+   viewBox="0 0 3278.2304 396.82666"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="maze solver.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\Loïc\source\repos\Mars-Farmer\polymartien.png"
+   inkscape:export-xdpi="180.40837"
+   inkscape:export-ydpi="180.40837">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient867">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop863" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop865" />
+    </linearGradient>
+    <rect
+       x="365.01468"
+       y="-68.570816"
+       width="905.6261"
+       height="460.81329"
+       id="rect26" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient867"
+       id="radialGradient869"
+       cx="649.63904"
+       cy="145.81065"
+       fx="649.63904"
+       fy="145.81065"
+       r="838.24036"
+       gradientTransform="matrix(1,0,0,0.33592204,0,96.829641)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.059377018"
+     inkscape:cx="3728.4751"
+     inkscape:cy="-170.64454"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g859"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-499.98514,111.39372)">
+    <g
+       id="g859"
+       style="stroke:none;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         id="text24"
+         style="font-style:normal;font-weight:normal;font-size:93.6989px;line-height:0.7;font-family:sans-serif;white-space:pre;shape-inside:url(#rect26);fill:#f04043;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:2.45055703;stroke-miterlimit:4;stroke-dasharray:none;"
+         x="313.50391"
+         y="0"
+         transform="matrix(6.1210573,0,0,6.1210573,-2874.7137,332.34243)"><tspan
+           x="547.80327"
+           y="-8.8531645"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:93.6989px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';text-align:center;text-anchor:middle;fill:#ffcc00;fill-opacity:1;stroke:#000000;stroke-width:2.45056;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">MazeSolver</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
